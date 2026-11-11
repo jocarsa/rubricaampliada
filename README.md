@@ -1,0 +1,2 @@
+# rubricaampliada
+Rúbrica ampliada propuesta
